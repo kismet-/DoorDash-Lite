@@ -14,4 +14,4 @@ DoorDashLite is built around MVVM principles using *UIComponents*.
 The Jetpack Compose libraries are still in developer preview, to use Jetpack Compose install the latest version of Android Studio 
 - https://developer.android.com/jetpack/compose/setup
 
-<a href="http://executed.io/images/screenshot.png"><img src="http://executed.io/images/screenshot.png" width="75%"></a>
+<a href="http://executed.io/images/screenshot.png"><img src="http://executed.io/images/screenshot.png" width="35%"></a>
