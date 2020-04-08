@@ -36,6 +36,6 @@ data class Restaurant(
     @SerializedName("is_newly_added") val is_newly_added : Boolean,
     @SerializedName("url") val url : String,
     @SerializedName("service_rate") val service_rate : Int,
-    @SerializedName("promotion") val promotion : String,
-    @SerializedName("featured_category_description") val featured_category_description : String
+    @SerializedName("promotion") val promotion : String?,
+    @SerializedName("featured_category_description") val featured_category_description : String?
 )
